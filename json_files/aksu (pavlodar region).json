@@ -1,0 +1,1592 @@
+{
+    "usd": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "471",
+            "sell_rate": "476",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "471",
+            "sell_rate": "476",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "471",
+            "sell_rate": "476",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "471",
+            "sell_rate": "476",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "eur": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "511",
+            "sell_rate": "516",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "511",
+            "sell_rate": "516",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "511",
+            "sell_rate": "516",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "511",
+            "sell_rate": "516",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "rub": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "5.2",
+            "sell_rate": "5.4",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "5.2",
+            "sell_rate": "5.4",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "5.2",
+            "sell_rate": "5.4",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "5.2",
+            "sell_rate": "5.4",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "kgs": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "5",
+            "sell_rate": "5.95",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "5",
+            "sell_rate": "5.95",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "5",
+            "sell_rate": "5.95",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "5",
+            "sell_rate": "5.95",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "cny": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "65",
+            "sell_rate": "67",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "65",
+            "sell_rate": "67",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "65",
+            "sell_rate": "67",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "65",
+            "sell_rate": "67",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "gbp": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "605",
+            "sell_rate": "625",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "605",
+            "sell_rate": "625",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "605",
+            "sell_rate": "625",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "605",
+            "sell_rate": "625",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "chf": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "uzs": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0.03",
+            "sell_rate": "0.05",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0.03",
+            "sell_rate": "0.05",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0.03",
+            "sell_rate": "0.05",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0.03",
+            "sell_rate": "0.05",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "jpy": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "aud": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "try": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "15",
+            "sell_rate": "21",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "15",
+            "sell_rate": "21",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "15",
+            "sell_rate": "21",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "15",
+            "sell_rate": "21",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "aed": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "115",
+            "sell_rate": "132",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "115",
+            "sell_rate": "132",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "115",
+            "sell_rate": "132",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "115",
+            "sell_rate": "132",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "uah": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "thb": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "11",
+            "sell_rate": "18",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "11",
+            "sell_rate": "18",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "11",
+            "sell_rate": "18",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "11",
+            "sell_rate": "18",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "inr": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "egp": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "cad": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "kpw": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "krw": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "mnt": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "tmt": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "gel": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "165",
+            "sell_rate": "190",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "165",
+            "sell_rate": "190",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "165",
+            "sell_rate": "190",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "165",
+            "sell_rate": "190",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "gold": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "34700",
+            "sell_rate": "36400",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "34700",
+            "sell_rate": "36400",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "34700",
+            "sell_rate": "36400",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "34700",
+            "sell_rate": "36400",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "azn": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "bhd": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "amd": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "byn": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "brl": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "huf": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "hkd": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "dkk": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "irr": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "kwd": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "myr": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "mxn": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "mdl": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "nok": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "pln": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "sar": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "xdr": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "sgd": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "tjs": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "czk": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "sek": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "zar": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "ils": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "qar": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "vnd": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "lkr": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "omr": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "pkr": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "mvr": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    },
+    "idr": {
+        "max-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-buy": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "max-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        },
+        "min-sell": {
+            "market_name": "Капиталист",
+            "address": "ул. Астана, 28",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 19:51:03"
+        }
+    }
+}

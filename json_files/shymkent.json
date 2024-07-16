@@ -1,0 +1,1592 @@
+{
+    "usd": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "475",
+            "sell_rate": "476.5",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "475",
+            "sell_rate": "476.5",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "475",
+            "sell_rate": "476.5",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "475",
+            "sell_rate": "476.5",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "eur": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "517.5",
+            "sell_rate": "520",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "517.5",
+            "sell_rate": "520",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "517.5",
+            "sell_rate": "520",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "517.5",
+            "sell_rate": "520",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "rub": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "5.25",
+            "sell_rate": "5.35",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "5.25",
+            "sell_rate": "5.35",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "5.25",
+            "sell_rate": "5.35",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "5.25",
+            "sell_rate": "5.35",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "kgs": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "5.3",
+            "sell_rate": "5.85",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "5.3",
+            "sell_rate": "5.85",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "5.3",
+            "sell_rate": "5.85",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "5.3",
+            "sell_rate": "5.85",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "cny": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "63",
+            "sell_rate": "67",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "63",
+            "sell_rate": "67",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "63",
+            "sell_rate": "67",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "63",
+            "sell_rate": "67",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "gbp": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "600",
+            "sell_rate": "630",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "600",
+            "sell_rate": "630",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "600",
+            "sell_rate": "630",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "600",
+            "sell_rate": "630",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "chf": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "uzs": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0.035",
+            "sell_rate": "0.045",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0.035",
+            "sell_rate": "0.045",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0.035",
+            "sell_rate": "0.045",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0.035",
+            "sell_rate": "0.045",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "jpy": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "2",
+            "sell_rate": "3.5",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "2",
+            "sell_rate": "3.5",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "2",
+            "sell_rate": "3.5",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "2",
+            "sell_rate": "3.5",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "aud": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "try": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "14",
+            "sell_rate": "20",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "14",
+            "sell_rate": "20",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "14",
+            "sell_rate": "20",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "14",
+            "sell_rate": "20",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "aed": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "110",
+            "sell_rate": "130",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "110",
+            "sell_rate": "130",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "110",
+            "sell_rate": "130",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "110",
+            "sell_rate": "130",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "uah": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "thb": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "inr": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "egp": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "cad": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "290",
+            "sell_rate": "340",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "290",
+            "sell_rate": "340",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "290",
+            "sell_rate": "340",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "290",
+            "sell_rate": "340",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "kpw": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "krw": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0.25",
+            "sell_rate": "0.4",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0.25",
+            "sell_rate": "0.4",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0.25",
+            "sell_rate": "0.4",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0.25",
+            "sell_rate": "0.4",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "mnt": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "tmt": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "gel": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "130",
+            "sell_rate": "190",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "130",
+            "sell_rate": "190",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "130",
+            "sell_rate": "190",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "130",
+            "sell_rate": "190",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "gold": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "azn": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "bhd": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "amd": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "byn": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "brl": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "huf": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "hkd": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "dkk": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "irr": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "kwd": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "myr": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "mxn": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "mdl": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "nok": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "pln": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "sar": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "xdr": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "sgd": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "tjs": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "czk": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "sek": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "zar": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "ils": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "qar": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "vnd": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "lkr": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "omr": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "pkr": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "mvr": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    },
+    "idr": {
+        "max-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-buy": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "max-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        },
+        "min-sell": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 22:32:35"
+        }
+    }
+}

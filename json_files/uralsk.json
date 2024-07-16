@@ -1,0 +1,1592 @@
+{
+    "usd": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "474",
+            "sell_rate": "477",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "474",
+            "sell_rate": "477",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "474",
+            "sell_rate": "477",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "474",
+            "sell_rate": "477",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "eur": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "511",
+            "sell_rate": "518",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "511",
+            "sell_rate": "518",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "511",
+            "sell_rate": "518",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "511",
+            "sell_rate": "518",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "rub": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "5.27",
+            "sell_rate": "5.36",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "5.27",
+            "sell_rate": "5.36",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "5.27",
+            "sell_rate": "5.36",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "5.27",
+            "sell_rate": "5.36",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "kgs": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "cny": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "gbp": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "chf": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "uzs": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "jpy": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "aud": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "try": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "aed": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "uah": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "thb": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "inr": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "egp": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "cad": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "kpw": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "krw": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "mnt": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "tmt": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "gel": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "gold": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "azn": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "bhd": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "amd": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "byn": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "brl": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "huf": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "hkd": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "dkk": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "irr": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "kwd": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "myr": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "mxn": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "mdl": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "nok": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "pln": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "sar": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "xdr": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "sgd": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "tjs": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "czk": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "sek": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "zar": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "ils": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "qar": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "vnd": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "lkr": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "omr": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "pkr": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "mvr": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    },
+    "idr": {
+        "max-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-buy": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "max-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        },
+        "min-sell": {
+            "market_name": "LuckyM №2",
+            "address": "ул. Курмангазы, 163",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 16:04:47"
+        }
+    }
+}
