@@ -1,0 +1,1428 @@
+{
+    "usd": {
+        "usd-max-buy-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "471",
+            "sell_rate": "476",
+            "time": "16.07.2024, 14:53:45"
+        },
+        "usd-min-buy-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "471",
+            "sell_rate": "476",
+            "time": "16.07.2024, 14:53:45"
+        },
+        "usd-max-sell-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "471",
+            "sell_rate": "476",
+            "time": "16.07.2024, 14:53:45"
+        },
+        "usd-min-sell-rate": {
+            "market_name": "Капиталист №3 24/7",
+            "address": "Ж/Д Вокзал, Привокзальная площадь, 1/1",
+            "buy_rate": "471",
+            "sell_rate": "475",
+            "time": "16.07.2024, 09:05:43"
+        }
+    },
+    "eur": {
+        "eur-max-buy-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "511",
+            "sell_rate": "516",
+            "time": "16.07.2024, 14:53:45"
+        },
+        "eur-min-buy-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "511",
+            "sell_rate": "516",
+            "time": "16.07.2024, 14:53:45"
+        },
+        "eur-max-sell-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "511",
+            "sell_rate": "516",
+            "time": "16.07.2024, 14:53:45"
+        },
+        "eur-min-sell-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "511",
+            "sell_rate": "516",
+            "time": "16.07.2024, 14:53:45"
+        }
+    },
+    "rub": {
+        "rub-max-buy-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "5.2",
+            "sell_rate": "5.4",
+            "time": "16.07.2024, 14:53:45"
+        },
+        "rub-min-buy-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "5.2",
+            "sell_rate": "5.4",
+            "time": "16.07.2024, 14:53:45"
+        },
+        "rub-max-sell-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "5.2",
+            "sell_rate": "5.4",
+            "time": "16.07.2024, 14:53:45"
+        },
+        "rub-min-sell-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "5.2",
+            "sell_rate": "5.4",
+            "time": "16.07.2024, 14:53:45"
+        }
+    },
+    "kgs": {
+        "kgs-max-buy-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "5",
+            "sell_rate": "5.95",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "kgs-min-buy-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "5",
+            "sell_rate": "5.95",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "kgs-max-sell-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "5",
+            "sell_rate": "5.95",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "kgs-min-sell-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "5",
+            "sell_rate": "5.95",
+            "time": "16.07.2024, 14:40:59"
+        }
+    },
+    "cny": {
+        "cny-max-buy-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "65",
+            "sell_rate": "67",
+            "time": "16.07.2024, 14:53:45"
+        },
+        "cny-min-buy-rate": {
+            "market_name": "Кайрос",
+            "address": "ул. Мәшһүр Жүсіп, 16 (ТД \"Варшава\", с торца торгового дома)",
+            "buy_rate": "63",
+            "sell_rate": "67",
+            "time": "16.07.2024, 13:40:11"
+        },
+        "cny-max-sell-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "65",
+            "sell_rate": "67",
+            "time": "16.07.2024, 14:53:45"
+        },
+        "cny-min-sell-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "65",
+            "sell_rate": "67",
+            "time": "16.07.2024, 14:53:45"
+        }
+    },
+    "gbp": {
+        "gbp-max-buy-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "605",
+            "sell_rate": "620",
+            "time": "16.07.2024, 14:53:45"
+        },
+        "gbp-min-buy-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "605",
+            "sell_rate": "620",
+            "time": "16.07.2024, 14:53:45"
+        },
+        "gbp-max-sell-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "605",
+            "sell_rate": "625",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "gbp-min-sell-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "605",
+            "sell_rate": "620",
+            "time": "16.07.2024, 14:53:45"
+        }
+    },
+    "chf": {
+        "chf-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "chf-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "chf-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "chf-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "uzs": {
+        "uzs-max-buy-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "0.03",
+            "sell_rate": "0.05",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "uzs-min-buy-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "0.03",
+            "sell_rate": "0.05",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "uzs-max-sell-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "0.03",
+            "sell_rate": "0.05",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "uzs-min-sell-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "0.03",
+            "sell_rate": "0.05",
+            "time": "16.07.2024, 14:40:59"
+        }
+    },
+    "jpy": {
+        "jpy-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "jpy-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "jpy-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "jpy-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "aud": {
+        "aud-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "aud-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "aud-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "aud-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "try": {
+        "try-max-buy-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "15",
+            "sell_rate": "21",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "try-min-buy-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "15",
+            "sell_rate": "21",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "try-max-sell-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "15",
+            "sell_rate": "21",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "try-min-sell-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "15",
+            "sell_rate": "21",
+            "time": "16.07.2024, 14:40:59"
+        }
+    },
+    "aed": {
+        "aed-max-buy-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "115",
+            "sell_rate": "132",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "aed-min-buy-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "115",
+            "sell_rate": "132",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "aed-max-sell-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "115",
+            "sell_rate": "132",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "aed-min-sell-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "115",
+            "sell_rate": "132",
+            "time": "16.07.2024, 14:40:59"
+        }
+    },
+    "uah": {
+        "uah-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "uah-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "uah-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "uah-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "thb": {
+        "thb-max-buy-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "11",
+            "sell_rate": "18",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "thb-min-buy-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "11",
+            "sell_rate": "18",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "thb-max-sell-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "11",
+            "sell_rate": "18",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "thb-min-sell-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "11",
+            "sell_rate": "18",
+            "time": "16.07.2024, 14:40:59"
+        }
+    },
+    "inr": {
+        "inr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "inr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "inr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "inr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "egp": {
+        "egp-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "egp-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "egp-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "egp-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "cad": {
+        "cad-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "cad-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "cad-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "cad-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "kpw": {
+        "kpw-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kpw-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kpw-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kpw-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "krw": {
+        "krw-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "krw-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "krw-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "krw-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "mnt": {
+        "mnt-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mnt-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mnt-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mnt-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "tmt": {
+        "tmt-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tmt-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tmt-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tmt-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "gel": {
+        "gel-max-buy-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "165",
+            "sell_rate": "190",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "gel-min-buy-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "165",
+            "sell_rate": "190",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "gel-max-sell-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "165",
+            "sell_rate": "190",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "gel-min-sell-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "165",
+            "sell_rate": "190",
+            "time": "16.07.2024, 14:40:59"
+        }
+    },
+    "gold": {
+        "gold-max-buy-rate": {
+            "market_name": "Гермес №1",
+            "address": "ул. Естая, 77, ТД \"Практик\"",
+            "buy_rate": "35100",
+            "sell_rate": "36500",
+            "time": "16.07.2024, 14:53:45"
+        },
+        "gold-min-buy-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "34700",
+            "sell_rate": "36400",
+            "time": "16.07.2024, 14:40:59"
+        },
+        "gold-max-sell-rate": {
+            "market_name": "РУБЛЕВЫЙ",
+            "address": "ул. Лермонтова, 49",
+            "buy_rate": "35000",
+            "sell_rate": "37000",
+            "time": "16.07.2024, 14:29:03"
+        },
+        "gold-min-sell-rate": {
+            "market_name": "Капиталист №2",
+            "address": "ул. Толстого, 84, уг. пр. Назарбаева",
+            "buy_rate": "34700",
+            "sell_rate": "36400",
+            "time": "16.07.2024, 14:40:59"
+        }
+    },
+    "azn": {
+        "azn-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "azn-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "azn-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "azn-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "bhd": {
+        "bhd-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "bhd-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "bhd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "bhd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "amd": {
+        "amd-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "amd-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "amd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "amd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "byn": {
+        "byn-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "byn-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "byn-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "byn-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "brl": {
+        "brl-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "brl-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "brl-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "brl-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "huf": {
+        "huf-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "huf-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "huf-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "huf-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "hkd": {
+        "hkd-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "hkd-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "hkd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "hkd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "dkk": {
+        "dkk-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "dkk-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "dkk-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "dkk-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "irr": {
+        "irr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "irr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "irr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "irr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "kwd": {
+        "kwd-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kwd-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kwd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kwd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "myr": {
+        "myr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "myr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "myr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "myr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "mxn": {
+        "mxn-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mxn-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mxn-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mxn-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "mdl": {
+        "mdl-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mdl-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mdl-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mdl-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "nok": {
+        "nok-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "nok-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "nok-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "nok-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "pln": {
+        "pln-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "pln-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "pln-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "pln-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "sar": {
+        "sar-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sar-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sar-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sar-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "xdr": {
+        "xdr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "xdr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "xdr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "xdr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "sgd": {
+        "sgd-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sgd-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sgd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sgd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "tjs": {
+        "tjs-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tjs-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tjs-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tjs-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "czk": {
+        "czk-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "czk-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "czk-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "czk-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "sek": {
+        "sek-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sek-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sek-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sek-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "zar": {
+        "zar-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "zar-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "zar-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "zar-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "ils": {
+        "ils-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "ils-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "ils-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "ils-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "qar": {
+        "qar-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "qar-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "qar-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "qar-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "vnd": {
+        "vnd-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "vnd-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "vnd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "vnd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "lkr": {
+        "lkr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "lkr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "lkr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "lkr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "omr": {
+        "omr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "omr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "omr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "omr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "pkr": {
+        "pkr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "pkr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "pkr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "pkr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "mvr": {
+        "mvr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mvr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mvr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mvr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "idr": {
+        "idr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "idr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "idr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "idr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    }
+}

@@ -1,0 +1,1532 @@
+{
+    "usd": {
+        "usd-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "473",
+            "sell_rate": "478",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "usd-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "473",
+            "sell_rate": "478",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "usd-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "473",
+            "sell_rate": "478",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "usd-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "473",
+            "sell_rate": "478",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "eur": {
+        "eur-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "511",
+            "sell_rate": "517",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "eur-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "511",
+            "sell_rate": "517",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "eur-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "511",
+            "sell_rate": "517",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "eur-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "511",
+            "sell_rate": "517",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "rub": {
+        "rub-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "5.2",
+            "sell_rate": "5.42",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "rub-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "5.2",
+            "sell_rate": "5.42",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "rub-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "5.2",
+            "sell_rate": "5.42",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "rub-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "5.2",
+            "sell_rate": "5.42",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "kgs": {
+        "kgs-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "5",
+            "sell_rate": "5.8",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "kgs-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "5",
+            "sell_rate": "5.8",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "kgs-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "5",
+            "sell_rate": "5.8",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "kgs-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "5",
+            "sell_rate": "5.8",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "cny": {
+        "cny-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "64",
+            "sell_rate": "69.5",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "cny-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "64",
+            "sell_rate": "69.5",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "cny-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "64",
+            "sell_rate": "69.5",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "cny-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "64",
+            "sell_rate": "69.5",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "gbp": {
+        "gbp-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "605",
+            "sell_rate": "625",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "gbp-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "605",
+            "sell_rate": "625",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "gbp-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "605",
+            "sell_rate": "625",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "gbp-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "605",
+            "sell_rate": "625",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "chf": {
+        "chf-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "511",
+            "sell_rate": "532",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "chf-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "511",
+            "sell_rate": "532",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "chf-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "511",
+            "sell_rate": "532",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "chf-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "511",
+            "sell_rate": "532",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "uzs": {
+        "uzs-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.036",
+            "sell_rate": "0.048",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "uzs-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.036",
+            "sell_rate": "0.048",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "uzs-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.036",
+            "sell_rate": "0.048",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "uzs-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.036",
+            "sell_rate": "0.048",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "jpy": {
+        "jpy-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "2.4",
+            "sell_rate": "3.4",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "jpy-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "2.4",
+            "sell_rate": "3.4",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "jpy-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "2.4",
+            "sell_rate": "3.4",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "jpy-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "2.4",
+            "sell_rate": "3.4",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "aud": {
+        "aud-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "265",
+            "sell_rate": "310",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "aud-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "265",
+            "sell_rate": "310",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "aud-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "265",
+            "sell_rate": "310",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "aud-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "265",
+            "sell_rate": "310",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "try": {
+        "try-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "15",
+            "sell_rate": "20",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "try-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "15",
+            "sell_rate": "20",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "try-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "15",
+            "sell_rate": "20",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "try-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "15",
+            "sell_rate": "20",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "aed": {
+        "aed-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "127",
+            "sell_rate": "134",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "aed-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "127",
+            "sell_rate": "134",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "aed-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "127",
+            "sell_rate": "134",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "aed-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "127",
+            "sell_rate": "134",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "uah": {
+        "uah-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "6",
+            "sell_rate": "12",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "uah-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "6",
+            "sell_rate": "12",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "uah-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "6",
+            "sell_rate": "12",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "uah-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "6",
+            "sell_rate": "12",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "thb": {
+        "thb-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "10",
+            "sell_rate": "17",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "thb-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "10",
+            "sell_rate": "17",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "thb-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "10",
+            "sell_rate": "17",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "thb-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "10",
+            "sell_rate": "17",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "inr": {
+        "inr-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "4.5",
+            "sell_rate": "5.6",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "inr-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "4.5",
+            "sell_rate": "5.6",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "inr-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "4.5",
+            "sell_rate": "5.6",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "inr-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "4.5",
+            "sell_rate": "5.6",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "egp": {
+        "egp-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "9.5",
+            "sell_rate": "15",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "egp-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "9.5",
+            "sell_rate": "15",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "egp-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "9.5",
+            "sell_rate": "15",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "egp-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "9.5",
+            "sell_rate": "15",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "cad": {
+        "cad-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "320",
+            "sell_rate": "345",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "cad-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "320",
+            "sell_rate": "345",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "cad-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "320",
+            "sell_rate": "345",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "cad-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "320",
+            "sell_rate": "345",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "kpw": {
+        "kpw-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kpw-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kpw-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kpw-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "krw": {
+        "krw-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.3",
+            "sell_rate": "0.37",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "krw-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.3",
+            "sell_rate": "0.37",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "krw-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.3",
+            "sell_rate": "0.37",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "krw-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.3",
+            "sell_rate": "0.37",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "mnt": {
+        "mnt-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.1",
+            "sell_rate": "0.2",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "mnt-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.1",
+            "sell_rate": "0.2",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "mnt-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.1",
+            "sell_rate": "0.2",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "mnt-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.1",
+            "sell_rate": "0.2",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "tmt": {
+        "tmt-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tmt-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tmt-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tmt-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "gel": {
+        "gel-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "173",
+            "sell_rate": "189",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "gel-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "173",
+            "sell_rate": "189",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "gel-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "173",
+            "sell_rate": "189",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "gel-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "173",
+            "sell_rate": "189",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "gold": {
+        "gold-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "gold-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "gold-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "gold-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "azn": {
+        "azn-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "285",
+            "sell_rate": "294",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "azn-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "285",
+            "sell_rate": "294",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "azn-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "285",
+            "sell_rate": "294",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "azn-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "285",
+            "sell_rate": "294",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "bhd": {
+        "bhd-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "bhd-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "bhd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "bhd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "amd": {
+        "amd-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.6",
+            "sell_rate": "1.5",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "amd-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.6",
+            "sell_rate": "1.5",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "amd-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.6",
+            "sell_rate": "1.5",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "amd-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.6",
+            "sell_rate": "1.5",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "byn": {
+        "byn-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "135",
+            "sell_rate": "150",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "byn-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "135",
+            "sell_rate": "150",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "byn-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "135",
+            "sell_rate": "150",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "byn-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "135",
+            "sell_rate": "150",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "brl": {
+        "brl-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "brl-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "brl-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "brl-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "huf": {
+        "huf-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "huf-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "huf-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "huf-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "hkd": {
+        "hkd-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "52",
+            "sell_rate": "62",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "hkd-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "52",
+            "sell_rate": "62",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "hkd-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "52",
+            "sell_rate": "62",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "hkd-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "52",
+            "sell_rate": "62",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "dkk": {
+        "dkk-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "dkk-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "dkk-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "dkk-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "irr": {
+        "irr-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.001",
+            "sell_rate": "0.003",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "irr-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.001",
+            "sell_rate": "0.003",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "irr-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.001",
+            "sell_rate": "0.003",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "irr-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.001",
+            "sell_rate": "0.003",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "kwd": {
+        "kwd-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "1320",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "kwd-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "1320",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "kwd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kwd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "myr": {
+        "myr-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "85",
+            "sell_rate": "103",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "myr-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "85",
+            "sell_rate": "103",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "myr-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "85",
+            "sell_rate": "103",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "myr-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "85",
+            "sell_rate": "103",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "mxn": {
+        "mxn-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mxn-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mxn-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mxn-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "mdl": {
+        "mdl-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mdl-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mdl-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mdl-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "nok": {
+        "nok-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "nok-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "nok-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "nok-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "pln": {
+        "pln-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "110",
+            "sell_rate": "120",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "pln-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "110",
+            "sell_rate": "120",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "pln-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "110",
+            "sell_rate": "120",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "pln-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "110",
+            "sell_rate": "120",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "sar": {
+        "sar-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "118",
+            "sell_rate": "129",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "sar-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "118",
+            "sell_rate": "129",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "sar-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "118",
+            "sell_rate": "129",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "sar-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "118",
+            "sell_rate": "129",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "xdr": {
+        "xdr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "xdr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "xdr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "xdr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "sgd": {
+        "sgd-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sgd-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sgd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sgd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "tjs": {
+        "tjs-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "40",
+            "sell_rate": "49",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "tjs-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "40",
+            "sell_rate": "49",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "tjs-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "40",
+            "sell_rate": "49",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "tjs-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "40",
+            "sell_rate": "49",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "czk": {
+        "czk-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "17",
+            "sell_rate": "23",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "czk-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "17",
+            "sell_rate": "23",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "czk-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "17",
+            "sell_rate": "23",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "czk-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "17",
+            "sell_rate": "23",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "sek": {
+        "sek-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sek-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sek-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sek-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "zar": {
+        "zar-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "zar-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "zar-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "zar-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "ils": {
+        "ils-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "110",
+            "sell_rate": "135",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "ils-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "110",
+            "sell_rate": "135",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "ils-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "110",
+            "sell_rate": "135",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "ils-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "110",
+            "sell_rate": "135",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "qar": {
+        "qar-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "118",
+            "sell_rate": "133",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "qar-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "118",
+            "sell_rate": "133",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "qar-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "118",
+            "sell_rate": "133",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "qar-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "118",
+            "sell_rate": "133",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "vnd": {
+        "vnd-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.018",
+            "sell_rate": "0.029",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "vnd-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.018",
+            "sell_rate": "0.029",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "vnd-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.018",
+            "sell_rate": "0.029",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "vnd-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.018",
+            "sell_rate": "0.029",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "lkr": {
+        "lkr-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "1.2",
+            "sell_rate": "2.1",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "lkr-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "1.2",
+            "sell_rate": "2.1",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "lkr-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "1.2",
+            "sell_rate": "2.1",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "lkr-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "1.2",
+            "sell_rate": "2.1",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "omr": {
+        "omr-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "1080",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "omr-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "1080",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "omr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "omr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "pkr": {
+        "pkr-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.9",
+            "sell_rate": "1.8",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "pkr-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.9",
+            "sell_rate": "1.8",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "pkr-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.9",
+            "sell_rate": "1.8",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "pkr-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.9",
+            "sell_rate": "1.8",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "mvr": {
+        "mvr-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "20",
+            "sell_rate": "29",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "mvr-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "20",
+            "sell_rate": "29",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "mvr-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "20",
+            "sell_rate": "29",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "mvr-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "20",
+            "sell_rate": "29",
+            "time": "16.07.2024, 14:44:16"
+        }
+    },
+    "idr": {
+        "idr-max-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.015",
+            "sell_rate": "0.03",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "idr-min-buy-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.015",
+            "sell_rate": "0.03",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "idr-max-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.015",
+            "sell_rate": "0.03",
+            "time": "16.07.2024, 14:44:16"
+        },
+        "idr-min-sell-rate": {
+            "market_name": "YES EXCHANGE ТОО «Сервис-АКХ» (Аэропорт, круглосуточно)",
+            "address": "ул. Бокенбай Батыра, 44 (р-н Астана), 1 этаж",
+            "buy_rate": "0.015",
+            "sell_rate": "0.03",
+            "time": "16.07.2024, 14:44:16"
+        }
+    }
+}

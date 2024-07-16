@@ -8,9 +8,8 @@ def process_table(table_element, options, result):
     for option in options:
         currency_code = option.get_attribute("value").lower()
         result[currency_code] = []
-        
         option.click()
-        time.sleep(2)
+        time.sleep(1)
         
         table_html = table_element.get_attribute("outerHTML")
         table_soup = BeautifulSoup(table_html, "html.parser")
@@ -77,16 +76,14 @@ cities = [
 
 for city in cities:
     driver.get(f"https://kurs.kz/site/index?city={city}")
-
     select_in_city = driver.find_element(By.XPATH, '//*[@id="kurs-table"]/main/table[1]/thead/tr/th[3]/span[2]/select')
 
     options_in_city = select_in_city.find_elements(By.TAG_NAME, "option")
     result_in_city = {}
-
     in_city_table = driver.find_element(By.XPATH, '//*[@id="kurs-table"]/main/table[1]')
     result_in_city = process_table(in_city_table, options_in_city, result_in_city)
 
-    with open(f'{city}.json', 'w', encoding='utf-8') as f:
+    with open(f'jsons/{city}.json', 'w', encoding='utf-8') as f:
         json.dump(result_in_city, f, ensure_ascii=False, indent=4)
     print(f"Data saved to {city}.json")
 
@@ -97,6 +94,6 @@ for city in cities:
         other_table = driver.find_element(By.XPATH, '//*[@id="kurs-table"]/main/table[2]')
         result_other = process_table(other_table, options_other, result_other)
         
-        with open(f'{city}_table2.json', 'w', encoding='utf-8') as f:
+        with open(f'jsons/{city}_table2.json', 'w', encoding='utf-8') as f:
             json.dump(result_other, f, ensure_ascii=False, indent=4)
         print(f"Data saved to {city}_table2.json")

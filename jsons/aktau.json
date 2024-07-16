@@ -1,0 +1,1221 @@
+{
+    "usd": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "470",
+            "sell_rate": "476",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "eur": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "511",
+            "sell_rate": "518",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "rub": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "5.1",
+            "sell_rate": "5.55",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "kgs": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "4.8",
+            "sell_rate": "5.8",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "cny": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "64",
+            "sell_rate": "68.5",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "gbp": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "605",
+            "sell_rate": "625",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "chf": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "511",
+            "sell_rate": "532",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "uzs": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0.036",
+            "sell_rate": "0.046",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "jpy": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "2.4",
+            "sell_rate": "3.4",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "aud": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "265",
+            "sell_rate": "310",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "try": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "15",
+            "sell_rate": "20",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "aed": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "127",
+            "sell_rate": "134",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "uah": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "6",
+            "sell_rate": "12",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "thb": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "11",
+            "sell_rate": "17",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "inr": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "4.5",
+            "sell_rate": "5.6",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "egp": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "9",
+            "sell_rate": "17",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "cad": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "320",
+            "sell_rate": "345",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "kpw": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "krw": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0.3",
+            "sell_rate": "0.4",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "mnt": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0.1",
+            "sell_rate": "0.2",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "tmt": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "gel": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "173",
+            "sell_rate": "192",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "gold": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "azn": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "285",
+            "sell_rate": "300",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "bhd": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "amd": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0.7",
+            "sell_rate": "1.7",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "byn": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "135",
+            "sell_rate": "150",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "brl": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "huf": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "hkd": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "52",
+            "sell_rate": "62",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "dkk": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "irr": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0.001",
+            "sell_rate": "0.002",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "kwd": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "1320",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "myr": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "85",
+            "sell_rate": "103",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "mxn": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "mdl": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "nok": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "pln": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "110",
+            "sell_rate": "120",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "sar": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "118",
+            "sell_rate": "129",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "xdr": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "sgd": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "tjs": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "40",
+            "sell_rate": "49",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "czk": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "17",
+            "sell_rate": "22",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "sek": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "zar": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "ils": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "110",
+            "sell_rate": "135",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "qar": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "118",
+            "sell_rate": "133",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "vnd": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0.018",
+            "sell_rate": "0.029",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "lkr": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "1.2",
+            "sell_rate": "2.1",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "omr": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "1080",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "pkr": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0.9",
+            "sell_rate": "1.8",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "mvr": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "20",
+            "sell_rate": "29",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ],
+    "idr": [
+        {
+            "market_name": "YES Exchange",
+            "address": "Международный аэропорт, 1 этаж",
+            "buy_rate": "0.015",
+            "sell_rate": "0.03",
+            "time": "16.07.2024, 14:44:10"
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        },
+        {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "",
+            "sell_rate": "",
+            "time": ""
+        }
+    ]
+}

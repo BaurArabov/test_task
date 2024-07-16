@@ -1,0 +1,1564 @@
+{
+    "usd": {
+        "usd-max-buy-rate": {
+            "market_name": "Pro Finance-Ex",
+            "address": "пр. Мангилик Ел, 19 - обмен валют со стороны ул. Алматы (угловое пом.)",
+            "buy_rate": "473",
+            "sell_rate": "477",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "usd-min-buy-rate": {
+            "market_name": "Отрар Finance",
+            "address": "пр. Республики, 9, между маг. \"Талисман\" и \"Аврора\", здание \"Otrar Travel\"",
+            "buy_rate": "471",
+            "sell_rate": "475",
+            "time": "15.07.2024, 19:10:33"
+        },
+        "usd-max-sell-rate": {
+            "market_name": "Pro Finance-Ex",
+            "address": "пр. Мангилик Ел, 19 - обмен валют со стороны ул. Алматы (угловое пом.)",
+            "buy_rate": "473",
+            "sell_rate": "477",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "usd-min-sell-rate": {
+            "market_name": "Отрар Finance",
+            "address": "пр. Республики, 9, между маг. \"Талисман\" и \"Аврора\", здание \"Otrar Travel\"",
+            "buy_rate": "471",
+            "sell_rate": "475",
+            "time": "15.07.2024, 19:10:33"
+        }
+    },
+    "eur": {
+        "eur-max-buy-rate": {
+            "market_name": "Pro Finance-Ex",
+            "address": "пр. Мангилик Ел, 19 - обмен валют со стороны ул. Алматы (угловое пом.)",
+            "buy_rate": "515",
+            "sell_rate": "521",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "eur-min-buy-rate": {
+            "market_name": "ТАЗА АЙЫРБАСТАУ",
+            "address": "пр. Бауыржан Момышұлы, 4 (находимся внутри ломбарда \"Жайык\")",
+            "buy_rate": "512",
+            "sell_rate": "520",
+            "time": "16.07.2024, 12:27:51"
+        },
+        "eur-max-sell-rate": {
+            "market_name": "Pro Finance-Ex",
+            "address": "пр. Мангилик Ел, 19 - обмен валют со стороны ул. Алматы (угловое пом.)",
+            "buy_rate": "515",
+            "sell_rate": "521",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "eur-min-sell-rate": {
+            "market_name": "Отрар Finance",
+            "address": "пр. Республики, 9, между маг. \"Талисман\" и \"Аврора\", здание \"Otrar Travel\"",
+            "buy_rate": "512",
+            "sell_rate": "517",
+            "time": "15.07.2024, 19:10:33"
+        }
+    },
+    "rub": {
+        "rub-max-buy-rate": {
+            "market_name": "Pro Finance-Ex",
+            "address": "пр. Мангилик Ел, 19 - обмен валют со стороны ул. Алматы (угловое пом.)",
+            "buy_rate": "5.25",
+            "sell_rate": "5.4",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "rub-min-buy-rate": {
+            "market_name": "ТАЗА АЙЫРБАСТАУ",
+            "address": "пр. Бауыржан Момышұлы, 4 (находимся внутри ломбарда \"Жайык\")",
+            "buy_rate": "5.08",
+            "sell_rate": "5.35",
+            "time": "16.07.2024, 12:27:51"
+        },
+        "rub-max-sell-rate": {
+            "market_name": "Pro Finance-Ex",
+            "address": "пр. Мангилик Ел, 19 - обмен валют со стороны ул. Алматы (угловое пом.)",
+            "buy_rate": "5.25",
+            "sell_rate": "5.4",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "rub-min-sell-rate": {
+            "market_name": "Пайда-2005 №1",
+            "address": "ул. Иманова, 4",
+            "buy_rate": "5.2",
+            "sell_rate": "5.35",
+            "time": "16.07.2024, 14:05:52"
+        }
+    },
+    "kgs": {
+        "kgs-max-buy-rate": {
+            "market_name": "Ecash Astana 1",
+            "address": "пр. Туран , 24, ТД \"Сарыарка\" (цокольный этаж, каждый день до 22:00)",
+            "buy_rate": "5.65",
+            "sell_rate": "6",
+            "time": "16.07.2024, 14:36:45"
+        },
+        "kgs-min-buy-rate": {
+            "market_name": "Казына",
+            "address": "пр. Республики, 7, между \"KFC\" и маг. \"Талисман\"",
+            "buy_rate": "4.5",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:57"
+        },
+        "kgs-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №5, ЖК \"Аниса\")",
+            "address": "ул. Кайым Мухамедханов, 23А, нп 15. (Крайнее помещение ЖК Аниса, по центральной улице)",
+            "buy_rate": "5.6",
+            "sell_rate": "595",
+            "time": "16.07.2024, 14:46:48"
+        },
+        "kgs-min-sell-rate": {
+            "market_name": "TUMAR VIP Exchange №2",
+            "address": "ул. Анет баба, 10 н.п.9",
+            "buy_rate": "5.1",
+            "sell_rate": "5.39",
+            "time": "16.07.2024, 14:44:22"
+        }
+    },
+    "cny": {
+        "cny-max-buy-rate": {
+            "market_name": "Кайс валют",
+            "address": "ул. Кабанбай батыра, 18, вп 6 (напротив ЖК \"Премьера\" и триумфа Астаны)",
+            "buy_rate": "65.5",
+            "sell_rate": "66",
+            "time": "16.07.2024, 14:44:38"
+        },
+        "cny-min-buy-rate": {
+            "market_name": "ТАН - МАША",
+            "address": "ул. Жанайдара Жирентаева, 12",
+            "buy_rate": "62",
+            "sell_rate": "71",
+            "time": "16.07.2024, 14:39:42"
+        },
+        "cny-max-sell-rate": {
+            "market_name": "ТАН - МАША",
+            "address": "ул. Жанайдара Жирентаева, 12",
+            "buy_rate": "62",
+            "sell_rate": "71",
+            "time": "16.07.2024, 14:39:42"
+        },
+        "cny-min-sell-rate": {
+            "market_name": "ТЕМА (ТОО \"ALSI\")",
+            "address": "ул. Бейбітшілік, 40",
+            "buy_rate": "65",
+            "sell_rate": "66",
+            "time": "16.07.2024, 14:47:58"
+        }
+    },
+    "gbp": {
+        "gbp-max-buy-rate": {
+            "market_name": "Сарыарка Финанс №3",
+            "address": "пр. Туран, 34А. (в магазине \"Ami kids\")",
+            "buy_rate": "612",
+            "sell_rate": "620",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "gbp-min-buy-rate": {
+            "market_name": "Nur-AkFinance",
+            "address": "ул. Иманова 2",
+            "buy_rate": "580",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:42:00"
+        },
+        "gbp-max-sell-rate": {
+            "market_name": "Достык",
+            "address": "пр. Республики, 21, между двумя ф-лами \"First Heartland Jýsan Bank\"",
+            "buy_rate": "580",
+            "sell_rate": "640",
+            "time": "16.07.2024, 14:34:31"
+        },
+        "gbp-min-sell-rate": {
+            "market_name": "Центр Финанс",
+            "address": "ул. Достык, 12, (напротив ТРЦ \"Керуен\", возле Народного банка)",
+            "buy_rate": "590",
+            "sell_rate": "610",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "chf": {
+        "chf-max-buy-rate": {
+            "market_name": "Сарыарка Финанс №3",
+            "address": "пр. Туран, 34А. (в магазине \"Ami kids\")",
+            "buy_rate": "512.5",
+            "sell_rate": "530",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "chf-min-buy-rate": {
+            "market_name": "СКВ-АСТАНА",
+            "address": "пр. Республики, 21",
+            "buy_rate": "470",
+            "sell_rate": "500",
+            "time": "16.07.2024, 14:36:12"
+        },
+        "chf-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №3)",
+            "address": "пр. Республики, 23, НП 4 (пересечение с ул. Кенесары, рядом с “Happy Cake”)",
+            "buy_rate": "512",
+            "sell_rate": "533",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "chf-min-sell-rate": {
+            "market_name": "СКВ-АСТАНА",
+            "address": "пр. Республики, 21",
+            "buy_rate": "470",
+            "sell_rate": "500",
+            "time": "16.07.2024, 14:36:12"
+        }
+    },
+    "uzs": {
+        "uzs-max-buy-rate": {
+            "market_name": "ТЕМА (ТОО \"ALSI\")",
+            "address": "ул. Бейбітшілік, 40",
+            "buy_rate": "30",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "uzs-min-buy-rate": {
+            "market_name": "Пайда-2005 №2",
+            "address": "пр. Республики, 21, между \"First Heartland Jýsan Bank\" и маг. \"Respect\"",
+            "buy_rate": "0.02",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:43:20"
+        },
+        "uzs-max-sell-rate": {
+            "market_name": "Пайда-2005 №3",
+            "address": "ул. Сыганак, 39/1 НП 6, напротив Abu Dhabi Plaza",
+            "buy_rate": "0.03",
+            "sell_rate": "0.06",
+            "time": "16.07.2024, 14:36:11"
+        },
+        "uzs-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.036",
+            "sell_rate": "0.045",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "jpy": {
+        "jpy-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "3",
+            "sell_rate": "4.2",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "jpy-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №2, пр. Республики)",
+            "address": "пр. Республики, 23 (пересечение с ул. Кенесары, самый первый обменный пункт)",
+            "buy_rate": "2.5",
+            "sell_rate": "4.2",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "jpy-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "3",
+            "sell_rate": "4.2",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "jpy-min-sell-rate": {
+            "market_name": "Ecash Astana 2",
+            "address": "пр. Туран, 37 (ТРЦ \"Хан Шатыр\", цокольный этаж, рядом с магазином \"Candy shop\")",
+            "buy_rate": "2.6",
+            "sell_rate": "3.05",
+            "time": "16.07.2024, 14:35:57"
+        }
+    },
+    "aud": {
+        "aud-max-buy-rate": {
+            "market_name": "Ecash Astana 3",
+            "address": "пр. Кабанбай батыр, 119 (1 этаж, внутренние рейсы)  Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "290",
+            "sell_rate": "300",
+            "time": "16.07.2024, 14:35:46"
+        },
+        "aud-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "270",
+            "sell_rate": "303",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "aud-max-sell-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "275",
+            "sell_rate": "310",
+            "time": "16.07.2024, 14:44:03"
+        },
+        "aud-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №1 , ЖК \"Нурсая-2\")",
+            "address": "пр. Достык, 13, ВП-36 (Вход со стороны бульвара Нуржол, ЖК Нурсая - 2, между CAFESTAR и кафе NAVAT)",
+            "buy_rate": "280",
+            "sell_rate": "300",
+            "time": "16.07.2024, 14:44:41"
+        }
+    },
+    "try": {
+        "try-max-buy-rate": {
+            "market_name": "Сарыарка Финанс №3",
+            "address": "пр. Туран, 34А. (в магазине \"Ami kids\")",
+            "buy_rate": "15",
+            "sell_rate": "19",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "try-min-buy-rate": {
+            "market_name": "Три-А-1 №1",
+            "address": "ул. Бейбитшилик, 40/1, ТД \"ДЕН\"",
+            "buy_rate": "13",
+            "sell_rate": "23",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "try-max-sell-rate": {
+            "market_name": "Три-А-1 №1",
+            "address": "ул. Бейбитшилик, 40/1, ТД \"ДЕН\"",
+            "buy_rate": "13",
+            "sell_rate": "23",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "try-min-sell-rate": {
+            "market_name": "ТЕМА (ТОО \"ALSI\")",
+            "address": "ул. Бейбітшілік, 40",
+            "buy_rate": "14.5",
+            "sell_rate": "15.5",
+            "time": "16.07.2024, 14:47:58"
+        }
+    },
+    "aed": {
+        "aed-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "124.5",
+            "sell_rate": "130",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "aed-min-buy-rate": {
+            "market_name": "ТУРАН ФИНАНС",
+            "address": "ул. Сарайшык 5, ВП-2, ЖК \"Лазурный квартал\", внутри магазина \"АЛИМИР\", рядом \"Жусан Банк\"",
+            "buy_rate": "110",
+            "sell_rate": "130",
+            "time": "16.07.2024, 14:34:56"
+        },
+        "aed-max-sell-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "124",
+            "sell_rate": "131",
+            "time": "16.07.2024, 14:44:03"
+        },
+        "aed-min-sell-rate": {
+            "market_name": "Kassyb Finance №2",
+            "address": "ул. Достык, 9, бутик 12а, ТРЦ \"Керуен\"",
+            "buy_rate": "118",
+            "sell_rate": "127",
+            "time": "16.07.2024, 14:45:05"
+        }
+    },
+    "uah": {
+        "uah-max-buy-rate": {
+            "market_name": "ТЕМА (ТОО \"ALSI\")",
+            "address": "ул. Бейбітшілік, 40",
+            "buy_rate": "6",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "uah-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "1",
+            "sell_rate": "10",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "uah-max-sell-rate": {
+            "market_name": "Еxchange Market 2 (магазин \"Встреча\")",
+            "address": "г. Астана, пр. Абылай хана, д. 31,  маг. \"Встреча\"",
+            "buy_rate": "1",
+            "sell_rate": "15",
+            "time": "16.07.2024, 14:47:56"
+        },
+        "uah-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "5",
+            "sell_rate": "10",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "thb": {
+        "thb-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "12",
+            "sell_rate": "16",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "thb-min-buy-rate": {
+            "market_name": "Казына",
+            "address": "пр. Республики, 7, между \"KFC\" и маг. \"Талисман\"",
+            "buy_rate": "11",
+            "sell_rate": "15.5",
+            "time": "16.07.2024, 14:47:57"
+        },
+        "thb-max-sell-rate": {
+            "market_name": "Exchange Market 3 (гостиница \"Корсар\")",
+            "address": "г. Астана, пр. Бауыржан Момышұлы, 13, гостиница \"Корсар\"",
+            "buy_rate": "12",
+            "sell_rate": "17",
+            "time": "16.07.2024, 14:47:55"
+        },
+        "thb-min-sell-rate": {
+            "market_name": "Казына",
+            "address": "пр. Республики, 7, между \"KFC\" и маг. \"Талисман\"",
+            "buy_rate": "11",
+            "sell_rate": "15.5",
+            "time": "16.07.2024, 14:47:57"
+        }
+    },
+    "inr": {
+        "inr-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "4.5",
+            "sell_rate": "5.7",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "inr-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "2",
+            "sell_rate": "6",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "inr-max-sell-rate": {
+            "market_name": "Еxchange Market 2 (магазин \"Встреча\")",
+            "address": "г. Астана, пр. Абылай хана, д. 31,  маг. \"Встреча\"",
+            "buy_rate": "2",
+            "sell_rate": "7",
+            "time": "16.07.2024, 14:47:56"
+        },
+        "inr-min-sell-rate": {
+            "market_name": "Exchange Market",
+            "address": "Левый берег, ул. Сауран, 8, cтроительный центр \"Комфорт\", напротив ЖК \"Сармат\"",
+            "buy_rate": "2",
+            "sell_rate": "5.5",
+            "time": "16.07.2024, 14:47:54"
+        }
+    },
+    "egp": {
+        "egp-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "11",
+            "sell_rate": "16",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "egp-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "5",
+            "sell_rate": "25",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "egp-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "5",
+            "sell_rate": "25",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "egp-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №2, пр. Республики)",
+            "address": "пр. Республики, 23 (пересечение с ул. Кенесары, самый первый обменный пункт)",
+            "buy_rate": "11",
+            "sell_rate": "15",
+            "time": "16.07.2024, 14:47:58"
+        }
+    },
+    "cad": {
+        "cad-max-buy-rate": {
+            "market_name": "Ecash Astana 3",
+            "address": "пр. Кабанбай батыр, 119 (1 этаж, внутренние рейсы)  Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "325",
+            "sell_rate": "348",
+            "time": "16.07.2024, 14:35:46"
+        },
+        "cad-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №3)",
+            "address": "пр. Республики, 23, НП 4 (пересечение с ул. Кенесары, рядом с “Happy Cake”)",
+            "buy_rate": "315",
+            "sell_rate": "350",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "cad-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "321",
+            "sell_rate": "350",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "cad-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "315",
+            "sell_rate": "340",
+            "time": "16.07.2024, 14:47:58"
+        }
+    },
+    "kpw": {
+        "kpw-max-buy-rate": {
+            "market_name": "ТЕМА (ТОО \"ALSI\")",
+            "address": "ул. Бейбітшілік, 40",
+            "buy_rate": "31",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "kpw-min-buy-rate": {
+            "market_name": "ТЕМА (ТОО \"ALSI\")",
+            "address": "ул. Бейбітшілік, 40",
+            "buy_rate": "31",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "kpw-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kpw-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "krw": {
+        "krw-max-buy-rate": {
+            "market_name": "Еxchange Market 2 (магазин \"Встреча\")",
+            "address": "г. Астана, пр. Абылай хана, д. 31,  маг. \"Встреча\"",
+            "buy_rate": "0.32",
+            "sell_rate": "0.4",
+            "time": "16.07.2024, 14:47:56"
+        },
+        "krw-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "0.025",
+            "sell_rate": "0.036",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "krw-max-sell-rate": {
+            "market_name": "Казына",
+            "address": "пр. Республики, 7, между \"KFC\" и маг. \"Талисман\"",
+            "buy_rate": "0.25",
+            "sell_rate": "0.6",
+            "time": "16.07.2024, 14:47:57"
+        },
+        "krw-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "0.025",
+            "sell_rate": "0.036",
+            "time": "16.07.2024, 14:47:58"
+        }
+    },
+    "mnt": {
+        "mnt-max-buy-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.1",
+            "sell_rate": "0.18",
+            "time": "16.07.2024, 14:44:03"
+        },
+        "mnt-min-buy-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.1",
+            "sell_rate": "0.18",
+            "time": "16.07.2024, 14:44:03"
+        },
+        "mnt-max-sell-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.1",
+            "sell_rate": "0.18",
+            "time": "16.07.2024, 14:44:03"
+        },
+        "mnt-min-sell-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.1",
+            "sell_rate": "0.18",
+            "time": "16.07.2024, 14:44:03"
+        }
+    },
+    "tmt": {
+        "tmt-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tmt-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tmt-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tmt-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "gel": {
+        "gel-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "173",
+            "sell_rate": "190",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "gel-min-buy-rate": {
+            "market_name": "Казына",
+            "address": "пр. Республики, 7, между \"KFC\" и маг. \"Талисман\"",
+            "buy_rate": "165",
+            "sell_rate": "190",
+            "time": "16.07.2024, 14:47:57"
+        },
+        "gel-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "173",
+            "sell_rate": "190",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "gel-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №3)",
+            "address": "пр. Республики, 23, НП 4 (пересечение с ул. Кенесары, рядом с “Happy Cake”)",
+            "buy_rate": "172",
+            "sell_rate": "187",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "gold": {
+        "gold-max-buy-rate": {
+            "market_name": "Пайда-2005 №2",
+            "address": "пр. Республики, 21, между \"First Heartland Jýsan Bank\" и маг. \"Respect\"",
+            "buy_rate": "35300",
+            "sell_rate": "37000",
+            "time": "16.07.2024, 14:43:20"
+        },
+        "gold-min-buy-rate": {
+            "market_name": "Казына",
+            "address": "пр. Республики, 7, между \"KFC\" и маг. \"Талисман\"",
+            "buy_rate": "30000",
+            "sell_rate": "37000",
+            "time": "16.07.2024, 14:47:57"
+        },
+        "gold-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "34000",
+            "sell_rate": "37500",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "gold-min-sell-rate": {
+            "market_name": "Ecash Astana 2",
+            "address": "пр. Туран, 37 (ТРЦ \"Хан Шатыр\", цокольный этаж, рядом с магазином \"Candy shop\")",
+            "buy_rate": "33100",
+            "sell_rate": "34950",
+            "time": "16.07.2024, 14:35:57"
+        }
+    },
+    "azn": {
+        "azn-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "272",
+            "sell_rate": "300",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "azn-min-buy-rate": {
+            "market_name": "Казына",
+            "address": "пр. Республики, 7, между \"KFC\" и маг. \"Талисман\"",
+            "buy_rate": "190",
+            "sell_rate": "290",
+            "time": "16.07.2024, 14:47:57"
+        },
+        "azn-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "272",
+            "sell_rate": "300",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "azn-min-sell-rate": {
+            "market_name": "Казына",
+            "address": "пр. Республики, 7, между \"KFC\" и маг. \"Талисман\"",
+            "buy_rate": "190",
+            "sell_rate": "290",
+            "time": "16.07.2024, 14:47:57"
+        }
+    },
+    "bhd": {
+        "bhd-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "500",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "bhd-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "500",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "bhd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "bhd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "amd": {
+        "amd-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "0.7",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "amd-min-buy-rate": {
+            "market_name": "Еxchange Market 2 (магазин \"Встреча\")",
+            "address": "г. Астана, пр. Абылай хана, д. 31,  маг. \"Встреча\"",
+            "buy_rate": "0.5",
+            "sell_rate": "1.5",
+            "time": "16.07.2024, 14:47:56"
+        },
+        "amd-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.6",
+            "sell_rate": "1.5",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "amd-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.6",
+            "sell_rate": "1.5",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "byn": {
+        "byn-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "130",
+            "sell_rate": "155",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "byn-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №3)",
+            "address": "пр. Республики, 23, НП 4 (пересечение с ул. Кенесары, рядом с “Happy Cake”)",
+            "buy_rate": "100",
+            "sell_rate": "190",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "byn-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №2, пр. Республики)",
+            "address": "пр. Республики, 23 (пересечение с ул. Кенесары, самый первый обменный пункт)",
+            "buy_rate": "100",
+            "sell_rate": "195",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "byn-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "130",
+            "sell_rate": "155",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "brl": {
+        "brl-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №3)",
+            "address": "пр. Республики, 23, НП 4 (пересечение с ул. Кенесары, рядом с “Happy Cake”)",
+            "buy_rate": "10",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "brl-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №3)",
+            "address": "пр. Республики, 23, НП 4 (пересечение с ул. Кенесары, рядом с “Happy Cake”)",
+            "buy_rate": "10",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "brl-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "brl-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "huf": {
+        "huf-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "0.1",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "huf-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "0.1",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "huf-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "huf-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "hkd": {
+        "hkd-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "50",
+            "sell_rate": "59",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "hkd-min-buy-rate": {
+            "market_name": "Exchange Market 4 (ТОО \"NurlyZhol Exchange\")",
+            "address": "р-н Алматы, ул. Мұхамеджан Тынышбайұлы, 8, новый вокзал \"Нұрлы Жол\"",
+            "buy_rate": "45",
+            "sell_rate": "65",
+            "time": "16.07.2024, 14:47:13"
+        },
+        "hkd-max-sell-rate": {
+            "market_name": "Еxchange Market 2 (магазин \"Встреча\")",
+            "address": "г. Астана, пр. Абылай хана, д. 31,  маг. \"Встреча\"",
+            "buy_rate": "46",
+            "sell_rate": "65",
+            "time": "16.07.2024, 14:47:56"
+        },
+        "hkd-min-sell-rate": {
+            "market_name": "Сарыарка Финанс №3",
+            "address": "пр. Туран, 34А. (в магазине \"Ami kids\")",
+            "buy_rate": "48",
+            "sell_rate": "57",
+            "time": "16.07.2024, 14:47:58"
+        }
+    },
+    "dkk": {
+        "dkk-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "20",
+            "sell_rate": "9",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "dkk-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "20",
+            "sell_rate": "9",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "dkk-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "20",
+            "sell_rate": "9",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "dkk-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "20",
+            "sell_rate": "9",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "irr": {
+        "irr-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.001",
+            "sell_rate": "0.003",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "irr-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.001",
+            "sell_rate": "0.003",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "irr-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.001",
+            "sell_rate": "0.003",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "irr-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.001",
+            "sell_rate": "0.003",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "kwd": {
+        "kwd-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "1320",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "kwd-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "1000",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "kwd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kwd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "myr": {
+        "myr-max-buy-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "85",
+            "sell_rate": "105",
+            "time": "16.07.2024, 14:44:03"
+        },
+        "myr-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "70",
+            "sell_rate": "104",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "myr-max-sell-rate": {
+            "market_name": "Еxchange Market 2 (магазин \"Встреча\")",
+            "address": "г. Астана, пр. Абылай хана, д. 31,  маг. \"Встреча\"",
+            "buy_rate": "70",
+            "sell_rate": "110",
+            "time": "16.07.2024, 14:47:56"
+        },
+        "myr-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "70",
+            "sell_rate": "104",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "mxn": {
+        "mxn-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "10",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "mxn-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "10",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "mxn-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mxn-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "mdl": {
+        "mdl-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "7",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "mdl-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "7",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "mdl-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mdl-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "nok": {
+        "nok-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "15",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "nok-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "15",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "nok-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "nok-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "pln": {
+        "pln-max-buy-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "110",
+            "sell_rate": "120",
+            "time": "16.07.2024, 14:44:03"
+        },
+        "pln-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "80",
+            "sell_rate": "115",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "pln-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "80",
+            "sell_rate": "122",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "pln-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "80",
+            "sell_rate": "115",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "sar": {
+        "sar-max-buy-rate": {
+            "market_name": "Ecash Astana 2",
+            "address": "пр. Туран, 37 (ТРЦ \"Хан Шатыр\", цокольный этаж, рядом с магазином \"Candy shop\")",
+            "buy_rate": "118",
+            "sell_rate": "128",
+            "time": "16.07.2024, 14:35:57"
+        },
+        "sar-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "70",
+            "sell_rate": "130",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "sar-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "117",
+            "sell_rate": "135",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "sar-min-sell-rate": {
+            "market_name": "Ecash Astana 2",
+            "address": "пр. Туран, 37 (ТРЦ \"Хан Шатыр\", цокольный этаж, рядом с магазином \"Candy shop\")",
+            "buy_rate": "118",
+            "sell_rate": "128",
+            "time": "16.07.2024, 14:35:57"
+        }
+    },
+    "xdr": {
+        "xdr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "xdr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "xdr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "xdr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "sgd": {
+        "sgd-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "250",
+            "sell_rate": "325",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "sgd-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "250",
+            "sell_rate": "325",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "sgd-max-sell-rate": {
+            "market_name": "Еxchange Market 2 (магазин \"Встреча\")",
+            "address": "г. Астана, пр. Абылай хана, д. 31,  маг. \"Встреча\"",
+            "buy_rate": "250",
+            "sell_rate": "340",
+            "time": "16.07.2024, 14:47:56"
+        },
+        "sgd-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "250",
+            "sell_rate": "325",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "tjs": {
+        "tjs-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "41",
+            "sell_rate": "50",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "tjs-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "30",
+            "sell_rate": "50",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "tjs-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "41",
+            "sell_rate": "50",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "tjs-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "41",
+            "sell_rate": "50",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "czk": {
+        "czk-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "18.5",
+            "sell_rate": "22",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "czk-min-buy-rate": {
+            "market_name": "Еxchange Market 2 (магазин \"Встреча\")",
+            "address": "г. Астана, пр. Абылай хана, д. 31,  маг. \"Встреча\"",
+            "buy_rate": "10",
+            "sell_rate": "25",
+            "time": "16.07.2024, 14:47:56"
+        },
+        "czk-max-sell-rate": {
+            "market_name": "Еxchange Market 2 (магазин \"Встреча\")",
+            "address": "г. Астана, пр. Абылай хана, д. 31,  маг. \"Встреча\"",
+            "buy_rate": "10",
+            "sell_rate": "25",
+            "time": "16.07.2024, 14:47:56"
+        },
+        "czk-min-sell-rate": {
+            "market_name": "Ecash Astana 3",
+            "address": "пр. Кабанбай батыр, 119 (1 этаж, внутренние рейсы)  Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "18",
+            "sell_rate": "21",
+            "time": "16.07.2024, 14:35:46"
+        }
+    },
+    "sek": {
+        "sek-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "13",
+            "sell_rate": "45",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "sek-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "13",
+            "sell_rate": "45",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "sek-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "13",
+            "sell_rate": "45",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "sek-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "13",
+            "sell_rate": "45",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "zar": {
+        "zar-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "7",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "zar-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "2",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "zar-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "zar-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "ils": {
+        "ils-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "70",
+            "sell_rate": "130",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "ils-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №3)",
+            "address": "пр. Республики, 23, НП 4 (пересечение с ул. Кенесары, рядом с “Happy Cake”)",
+            "buy_rate": "30",
+            "sell_rate": "119",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "ils-max-sell-rate": {
+            "market_name": "Еxchange Market 2 (магазин \"Встреча\")",
+            "address": "г. Астана, пр. Абылай хана, д. 31,  маг. \"Встреча\"",
+            "buy_rate": "30",
+            "sell_rate": "140",
+            "time": "16.07.2024, 14:47:56"
+        },
+        "ils-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №3)",
+            "address": "пр. Республики, 23, НП 4 (пересечение с ул. Кенесары, рядом с “Happy Cake”)",
+            "buy_rate": "30",
+            "sell_rate": "119",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "qar": {
+        "qar-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "115",
+            "sell_rate": "135",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "qar-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "70",
+            "sell_rate": "130",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "qar-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "115",
+            "sell_rate": "135",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "qar-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "70",
+            "sell_rate": "130",
+            "time": "16.07.2024, 14:47:58"
+        }
+    },
+    "vnd": {
+        "vnd-max-buy-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.018",
+            "sell_rate": "0.029",
+            "time": "16.07.2024, 14:44:03"
+        },
+        "vnd-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "0.01",
+            "sell_rate": "0.027",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "vnd-max-sell-rate": {
+            "market_name": "Еxchange Market 2 (магазин \"Встреча\")",
+            "address": "г. Астана, пр. Абылай хана, д. 31,  маг. \"Встреча\"",
+            "buy_rate": "0.01",
+            "sell_rate": "0.04",
+            "time": "16.07.2024, 14:47:56"
+        },
+        "vnd-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "0.01",
+            "sell_rate": "0.027",
+            "time": "16.07.2024, 14:47:58"
+        }
+    },
+    "lkr": {
+        "lkr-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "1.1",
+            "sell_rate": "1.8",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "lkr-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №3)",
+            "address": "пр. Республики, 23, НП 4 (пересечение с ул. Кенесары, рядом с “Happy Cake”)",
+            "buy_rate": "0.8",
+            "sell_rate": "1.6",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "lkr-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "1.1",
+            "sell_rate": "1.8",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "lkr-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №3)",
+            "address": "пр. Республики, 23, НП 4 (пересечение с ул. Кенесары, рядом с “Happy Cake”)",
+            "buy_rate": "0.8",
+            "sell_rate": "1.6",
+            "time": "16.07.2024, 14:47:59"
+        }
+    },
+    "omr": {
+        "omr-max-buy-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "1080",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:44:03"
+        },
+        "omr-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "800",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "omr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "omr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "pkr": {
+        "pkr-max-buy-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.9",
+            "sell_rate": "1.8",
+            "time": "16.07.2024, 14:44:03"
+        },
+        "pkr-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "0.5",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "pkr-max-sell-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.9",
+            "sell_rate": "1.8",
+            "time": "16.07.2024, 14:44:03"
+        },
+        "pkr-min-sell-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.9",
+            "sell_rate": "1.8",
+            "time": "16.07.2024, 14:44:03"
+        }
+    },
+    "mvr": {
+        "mvr-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "20",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "mvr-min-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №4, ЖК \"Асылым\")",
+            "address": "пр. Мангилик ел, 36, н.п. 67 (цокольный этаж, отдельных вход с пр. Мангелик Ел, рядом с “Itan”)",
+            "buy_rate": "18",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:58"
+        },
+        "mvr-max-sell-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "20",
+            "sell_rate": "29",
+            "time": "16.07.2024, 14:44:03"
+        },
+        "mvr-min-sell-rate": {
+            "market_name": "YES exchange (ТОО \"Сервис-Аст\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "20",
+            "sell_rate": "29",
+            "time": "16.07.2024, 14:44:03"
+        }
+    },
+    "idr": {
+        "idr-max-buy-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.015",
+            "sell_rate": "0.029",
+            "time": "16.07.2024, 14:47:59"
+        },
+        "idr-min-buy-rate": {
+            "market_name": "Еxchange Market 2 (магазин \"Встреча\")",
+            "address": "г. Астана, пр. Абылай хана, д. 31,  маг. \"Встреча\"",
+            "buy_rate": "0.01",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:47:56"
+        },
+        "idr-max-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №1 , ЖК \"Нурсая-2\")",
+            "address": "пр. Достык, 13, ВП-36 (Вход со стороны бульвара Нуржол, ЖК Нурсая - 2, между CAFESTAR и кафе NAVAT)",
+            "buy_rate": "0.01",
+            "sell_rate": "0.03",
+            "time": "16.07.2024, 14:44:41"
+        },
+        "idr-min-sell-rate": {
+            "market_name": "Байлык Финанс Bayliq Finance - 1996 (филиал №6 , Аэропорт \"Нурсултан Назарбаев\")",
+            "address": "пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+            "buy_rate": "0.015",
+            "sell_rate": "0.029",
+            "time": "16.07.2024, 14:47:59"
+        }
+    }
+}

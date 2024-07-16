@@ -1,0 +1,1442 @@
+{
+    "usd": {
+        "usd-max-buy-rate": {
+            "market_name": "УЛПИЯ",
+            "address": "пр. Республики, 11, остановка \"Огонёк\"",
+            "buy_rate": "476",
+            "sell_rate": "477",
+            "time": "16.07.2024, 14:48:39"
+        },
+        "usd-min-buy-rate": {
+            "market_name": "BEREKE-Gold",
+            "address": "пр. Тауке Хана, 56А",
+            "buy_rate": "474",
+            "sell_rate": "475",
+            "time": "16.07.2024, 11:19:51"
+        },
+        "usd-max-sell-rate": {
+            "market_name": "Магнат",
+            "address": "пр. Тауке хана, 4, напротив Университета Ауэзова",
+            "buy_rate": "475.5",
+            "sell_rate": "477",
+            "time": "16.07.2024, 14:58:32"
+        },
+        "usd-min-sell-rate": {
+            "market_name": "BEREKE-Gold",
+            "address": "пр. Тауке Хана, 56А",
+            "buy_rate": "474",
+            "sell_rate": "475",
+            "time": "16.07.2024, 11:19:51"
+        }
+    },
+    "eur": {
+        "eur-max-buy-rate": {
+            "market_name": "\"BEREKE-Gold\" №2",
+            "address": "пр. Тауке Хана, 60/1",
+            "buy_rate": "517.5",
+            "sell_rate": "519",
+            "time": "16.07.2024, 14:45:18"
+        },
+        "eur-min-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "510",
+            "sell_rate": "520",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "eur-max-sell-rate": {
+            "market_name": "УЛПИЯ",
+            "address": "пр. Республики, 11, остановка \"Огонёк\"",
+            "buy_rate": "512",
+            "sell_rate": "522",
+            "time": "16.07.2024, 14:48:39"
+        },
+        "eur-min-sell-rate": {
+            "market_name": "Центральный (ТОО \"Lion SV\")",
+            "address": "пр. Тауке-Хана, 4, рядом с \"Mens World\", напротив ЮКГУ",
+            "buy_rate": "512",
+            "sell_rate": "518",
+            "time": "16.07.2024, 14:58:32"
+        }
+    },
+    "rub": {
+        "rub-max-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "5.31",
+            "sell_rate": "5.35",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "rub-min-buy-rate": {
+            "market_name": "УЛПИЯ",
+            "address": "пр. Республики, 11, остановка \"Огонёк\"",
+            "buy_rate": "5.1",
+            "sell_rate": "5.4",
+            "time": "16.07.2024, 14:48:39"
+        },
+        "rub-max-sell-rate": {
+            "market_name": "УЛПИЯ",
+            "address": "пр. Республики, 11, остановка \"Огонёк\"",
+            "buy_rate": "5.1",
+            "sell_rate": "5.4",
+            "time": "16.07.2024, 14:48:39"
+        },
+        "rub-min-sell-rate": {
+            "market_name": "BEREKE-Gold",
+            "address": "пр. Тауке Хана, 56А",
+            "buy_rate": "5.29",
+            "sell_rate": "5.31",
+            "time": "16.07.2024, 11:19:51"
+        }
+    },
+    "kgs": {
+        "kgs-max-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "5.55",
+            "sell_rate": "5.9",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "kgs-min-buy-rate": {
+            "market_name": "На Тауке-Хана",
+            "address": "ул. Тауке хана, 4/14",
+            "buy_rate": "4.8",
+            "sell_rate": "5",
+            "time": "16.07.2024, 12:06:52"
+        },
+        "kgs-max-sell-rate": {
+            "market_name": "TABYS  ТК - МИЛЛИОНЕР",
+            "address": "пр. Тауке-Хана, 37/3  Рядом с      № 1 поликлиникой",
+            "buy_rate": "5.3",
+            "sell_rate": "6",
+            "time": "16.07.2024, 14:58:31"
+        },
+        "kgs-min-sell-rate": {
+            "market_name": "На Тауке-Хана",
+            "address": "ул. Тауке хана, 4/14",
+            "buy_rate": "4.8",
+            "sell_rate": "5",
+            "time": "16.07.2024, 12:06:52"
+        }
+    },
+    "cny": {
+        "cny-max-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "65",
+            "sell_rate": "67",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "cny-min-buy-rate": {
+            "market_name": "Миллиордер",
+            "address": "пр. Тауке хана, 60/1, здание \"Алтын ғасыр\"",
+            "buy_rate": "55",
+            "sell_rate": "65",
+            "time": "16.07.2024, 14:56:50"
+        },
+        "cny-max-sell-rate": {
+            "market_name": "€ ADILET (EURO ӘДІЛЕТ)",
+            "address": "пр. Тауке хана, 62",
+            "buy_rate": "60",
+            "sell_rate": "70",
+            "time": "16.07.2024, 14:54:32"
+        },
+        "cny-min-sell-rate": {
+            "market_name": "На Тауке-Хана",
+            "address": "ул. Тауке хана, 4/14",
+            "buy_rate": "58",
+            "sell_rate": "62",
+            "time": "16.07.2024, 12:06:52"
+        }
+    },
+    "gbp": {
+        "gbp-max-buy-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "600",
+            "sell_rate": "630",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "gbp-min-buy-rate": {
+            "market_name": "КӨМЕК-ДАРХАН",
+            "address": "пр. Тауке хана, 62",
+            "buy_rate": "550",
+            "sell_rate": "600",
+            "time": "16.07.2024, 13:45:25"
+        },
+        "gbp-max-sell-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "600",
+            "sell_rate": "630",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "gbp-min-sell-rate": {
+            "market_name": "L&L EXCHANGE",
+            "address": "пр. Тауке хана, 60 (студия красоты \"Алтын Ғасыр\" окно слева, напротив поликлиники)",
+            "buy_rate": "560",
+            "sell_rate": "580",
+            "time": "16.07.2024, 14:43:27"
+        }
+    },
+    "chf": {
+        "chf-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "chf-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "chf-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "chf-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "uzs": {
+        "uzs-max-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "30",
+            "sell_rate": "40",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "uzs-min-buy-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0.035",
+            "sell_rate": "0.045",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "uzs-max-sell-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "30",
+            "sell_rate": "40",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "uzs-min-sell-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0.035",
+            "sell_rate": "0.045",
+            "time": "16.07.2024, 14:53:56"
+        }
+    },
+    "jpy": {
+        "jpy-max-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "2.9",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "jpy-min-buy-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "2",
+            "sell_rate": "3.5",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "jpy-max-sell-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "2",
+            "sell_rate": "3.5",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "jpy-min-sell-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "2",
+            "sell_rate": "3.5",
+            "time": "16.07.2024, 14:53:56"
+        }
+    },
+    "aud": {
+        "aud-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "aud-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "aud-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "aud-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "try": {
+        "try-max-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "14.5",
+            "sell_rate": "18",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "try-min-buy-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "14",
+            "sell_rate": "20",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "try-max-sell-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "14",
+            "sell_rate": "20",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "try-min-sell-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "14.5",
+            "sell_rate": "18",
+            "time": "16.07.2024, 14:58:30"
+        }
+    },
+    "aed": {
+        "aed-max-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "122",
+            "sell_rate": "130",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "aed-min-buy-rate": {
+            "market_name": "КӨМЕК-ДАРХАН",
+            "address": "пр. Тауке хана, 62",
+            "buy_rate": "100",
+            "sell_rate": "0",
+            "time": "16.07.2024, 13:45:25"
+        },
+        "aed-max-sell-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "122",
+            "sell_rate": "130",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "aed-min-sell-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "122",
+            "sell_rate": "130",
+            "time": "16.07.2024, 14:58:30"
+        }
+    },
+    "uah": {
+        "uah-max-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "6",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "uah-min-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "6",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "uah-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "uah-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "thb": {
+        "thb-max-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "12",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "thb-min-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "12",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "thb-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "thb-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "inr": {
+        "inr-max-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "4.3",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "inr-min-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "4.3",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "inr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "inr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "egp": {
+        "egp-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "egp-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "egp-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "egp-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "cad": {
+        "cad-max-buy-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "290",
+            "sell_rate": "340",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "cad-min-buy-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "290",
+            "sell_rate": "340",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "cad-max-sell-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "290",
+            "sell_rate": "340",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "cad-min-sell-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "290",
+            "sell_rate": "340",
+            "time": "16.07.2024, 14:53:56"
+        }
+    },
+    "kpw": {
+        "kpw-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kpw-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kpw-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kpw-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "krw": {
+        "krw-max-buy-rate": {
+            "market_name": "ТЕМА",
+            "address": "ул. Толе би, 7, уг. ул. Ташенова, рядом с магазином \"Sulpak\"",
+            "buy_rate": "31",
+            "sell_rate": "0",
+            "time": "16.07.2024, 14:58:30"
+        },
+        "krw-min-buy-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0.25",
+            "sell_rate": "0.4",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "krw-max-sell-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0.25",
+            "sell_rate": "0.4",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "krw-min-sell-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "0.25",
+            "sell_rate": "0.4",
+            "time": "16.07.2024, 14:53:56"
+        }
+    },
+    "mnt": {
+        "mnt-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mnt-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mnt-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mnt-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "tmt": {
+        "tmt-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tmt-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tmt-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tmt-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "gel": {
+        "gel-max-buy-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "130",
+            "sell_rate": "190",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "gel-min-buy-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "130",
+            "sell_rate": "190",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "gel-max-sell-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "130",
+            "sell_rate": "190",
+            "time": "16.07.2024, 14:53:56"
+        },
+        "gel-min-sell-rate": {
+            "market_name": "FLY EXCHANGE (Аэропорт Шымкент)",
+            "address": "Ынтымақ шағын ауданы, Бақбаев көшесі, 51/3",
+            "buy_rate": "130",
+            "sell_rate": "190",
+            "time": "16.07.2024, 14:53:56"
+        }
+    },
+    "gold": {
+        "gold-max-buy-rate": {
+            "market_name": "НИКА (ТОО \"ГРАНД\")",
+            "address": "пр. Тауке хана, 37",
+            "buy_rate": "27000",
+            "sell_rate": "29000",
+            "time": "16.07.2024, 13:55:19"
+        },
+        "gold-min-buy-rate": {
+            "market_name": "НИКА (ТОО \"ГРАНД\")",
+            "address": "пр. Тауке хана, 37",
+            "buy_rate": "27000",
+            "sell_rate": "29000",
+            "time": "16.07.2024, 13:55:19"
+        },
+        "gold-max-sell-rate": {
+            "market_name": "НИКА (ТОО \"ГРАНД\")",
+            "address": "пр. Тауке хана, 37",
+            "buy_rate": "27000",
+            "sell_rate": "29000",
+            "time": "16.07.2024, 13:55:19"
+        },
+        "gold-min-sell-rate": {
+            "market_name": "НИКА (ТОО \"ГРАНД\")",
+            "address": "пр. Тауке хана, 37",
+            "buy_rate": "27000",
+            "sell_rate": "29000",
+            "time": "16.07.2024, 13:55:19"
+        }
+    },
+    "azn": {
+        "azn-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "azn-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "azn-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "azn-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "bhd": {
+        "bhd-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "bhd-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "bhd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "bhd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "amd": {
+        "amd-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "amd-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "amd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "amd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "byn": {
+        "byn-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "byn-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "byn-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "byn-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "brl": {
+        "brl-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "brl-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "brl-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "brl-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "huf": {
+        "huf-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "huf-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "huf-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "huf-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "hkd": {
+        "hkd-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "hkd-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "hkd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "hkd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "dkk": {
+        "dkk-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "dkk-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "dkk-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "dkk-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "irr": {
+        "irr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "irr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "irr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "irr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "kwd": {
+        "kwd-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kwd-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kwd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "kwd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "myr": {
+        "myr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "myr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "myr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "myr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "mxn": {
+        "mxn-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mxn-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mxn-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mxn-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "mdl": {
+        "mdl-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mdl-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mdl-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mdl-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "nok": {
+        "nok-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "nok-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "nok-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "nok-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "pln": {
+        "pln-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "pln-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "pln-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "pln-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "sar": {
+        "sar-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sar-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sar-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sar-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "xdr": {
+        "xdr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "xdr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "xdr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "xdr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "sgd": {
+        "sgd-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sgd-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sgd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sgd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "tjs": {
+        "tjs-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tjs-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tjs-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "tjs-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "czk": {
+        "czk-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "czk-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "czk-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "czk-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "sek": {
+        "sek-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sek-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sek-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "sek-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "zar": {
+        "zar-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "zar-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "zar-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "zar-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "ils": {
+        "ils-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "ils-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "ils-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "ils-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "qar": {
+        "qar-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "qar-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "qar-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "qar-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "vnd": {
+        "vnd-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "vnd-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "vnd-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "vnd-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "lkr": {
+        "lkr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "lkr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "lkr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "lkr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "omr": {
+        "omr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "omr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "omr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "omr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "pkr": {
+        "pkr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "pkr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "pkr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "pkr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "mvr": {
+        "mvr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mvr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mvr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "mvr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    },
+    "idr": {
+        "idr-max-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "idr-min-buy-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "idr-max-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        },
+        "idr-min-sell-rate": {
+            "market_name": "",
+            "address": "",
+            "buy_rate": "0",
+            "sell_rate": "0"
+        }
+    }
+}
