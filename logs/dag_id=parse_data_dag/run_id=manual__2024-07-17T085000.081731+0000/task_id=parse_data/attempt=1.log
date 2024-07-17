@@ -1,0 +1,102 @@
+[2024-07-17T08:50:03.704+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-07-17T08:50:03.744+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: parse_data_dag.parse_data manual__2024-07-17T08:50:00.081731+00:00 [queued]>
+[2024-07-17T08:50:03.754+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: parse_data_dag.parse_data manual__2024-07-17T08:50:00.081731+00:00 [queued]>
+[2024-07-17T08:50:03.755+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2024-07-17T08:50:03.769+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): parse_data> on 2024-07-17 08:50:00.081731+00:00
+[2024-07-17T08:50:03.780+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:62: DeprecationWarning: This process (pid=104) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-07-17T08:50:03.782+0000] {standard_task_runner.py:64} INFO - Started process 107 to run task
+[2024-07-17T08:50:03.782+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'parse_data_dag', 'parse_data', 'manual__2024-07-17T08:50:00.081731+00:00', '--job-id', '38', '--raw', '--subdir', 'DAGS_FOLDER/parsing_dag.py', '--cfg-path', '/tmp/tmpch6lmpz2']
+[2024-07-17T08:50:03.784+0000] {standard_task_runner.py:91} INFO - Job 38: Subtask parse_data
+[2024-07-17T08:50:03.838+0000] {task_command.py:426} INFO - Running <TaskInstance: parse_data_dag.parse_data manual__2024-07-17T08:50:00.081731+00:00 [running]> on host 1254a1bc6f0b
+[2024-07-17T08:50:03.945+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='parse_data_dag' AIRFLOW_CTX_TASK_ID='parse_data' AIRFLOW_CTX_EXECUTION_DATE='2024-07-17T08:50:00.081731+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-07-17T08:50:00.081731+00:00'
+[2024-07-17T08:50:03.948+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-07-17T08:50:13.064+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-07-17T08:50:13.066+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/dags/parsing_dag.py", line 124, in parse_data
+    result_in_city = process_table(driver, options_in_city)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/dags/parsing_dag.py", line 50, in process_table
+    buy_rate_button.click()
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webelement.py", line 94, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 354, in execute
+    self.error_handler.check_response(response)
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome-headless-shell=124.0.6367.78)
+Stacktrace:
+#0 0x5640e4d5eca7 <unknown>
+#1 0x5640e4a359aa <unknown>
+#2 0x5640e4a7c590 <unknown>
+#3 0x5640e4a71f1a <unknown>
+#4 0x5640e4a9cf86 <unknown>
+#5 0x5640e4a71912 <unknown>
+#6 0x5640e4a9d132 <unknown>
+#7 0x5640e4ab9f16 <unknown>
+#8 0x5640e4a9cce7 <unknown>
+#9 0x5640e4a6f6b1 <unknown>
+#10 0x5640e4a704c6 <unknown>
+#11 0x5640e4d2c55a <unknown>
+#12 0x5640e4d2f8ea <unknown>
+#13 0x5640e4d2f393 <unknown>
+#14 0x5640e4d2fd79 <unknown>
+#15 0x5640e4d1cb2f <unknown>
+#16 0x5640e4d30134 <unknown>
+#17 0x5640e4d055aa <unknown>
+#18 0x5640e4d4f459 <unknown>
+#19 0x5640e4d4f646 <unknown>
+#20 0x5640e4d5e193 <unknown>
+#21 0x7fd4188d0134 <unknown>
+
+[2024-07-17T08:50:13.086+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=parse_data_dag, task_id=parse_data, run_id=manual__2024-07-17T08:50:00.081731+00:00, execution_date=20240717T085000, start_date=20240717T085003, end_date=20240717T085013
+[2024-07-17T08:50:13.113+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 38 for task parse_data (Message: element not interactable
+  (Session info: chrome-headless-shell=124.0.6367.78)
+Stacktrace:
+#0 0x5640e4d5eca7 <unknown>
+#1 0x5640e4a359aa <unknown>
+#2 0x5640e4a7c590 <unknown>
+#3 0x5640e4a71f1a <unknown>
+#4 0x5640e4a9cf86 <unknown>
+#5 0x5640e4a71912 <unknown>
+#6 0x5640e4a9d132 <unknown>
+#7 0x5640e4ab9f16 <unknown>
+#8 0x5640e4a9cce7 <unknown>
+#9 0x5640e4a6f6b1 <unknown>
+#10 0x5640e4a704c6 <unknown>
+#11 0x5640e4d2c55a <unknown>
+#12 0x5640e4d2f8ea <unknown>
+#13 0x5640e4d2f393 <unknown>
+#14 0x5640e4d2fd79 <unknown>
+#15 0x5640e4d1cb2f <unknown>
+#16 0x5640e4d30134 <unknown>
+#17 0x5640e4d055aa <unknown>
+#18 0x5640e4d4f459 <unknown>
+#19 0x5640e4d4f646 <unknown>
+#20 0x5640e4d5e193 <unknown>
+#21 0x7fd4188d0134 <unknown>
+; 107)
+[2024-07-17T08:50:13.137+0000] {local_task_job_runner.py:243} INFO - Task exited with return code 1
+[2024-07-17T08:50:13.160+0000] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-07-17T08:50:13.165+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
